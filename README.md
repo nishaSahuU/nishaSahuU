@@ -63,10 +63,9 @@ or <a href="mailto:nsahu261972@gmail.com"><b>email</b></a> me.
 </br>
 
 
-<p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Thanks+for+visiting!)](https://git.io/typing-svg)
 
-</p>
 
 <p>
 
