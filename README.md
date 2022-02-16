@@ -23,7 +23,7 @@ or <a href="mailto:nsahu261972@gmail.com"><b>email</b></a> me.
 	<a href="https://linkedin.com/in/nisha-sahu-3961ba227"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://instagram.com/nisha__sahu_00"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	
-<br>
+</br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; ## About me:
 
@@ -33,7 +33,7 @@ or <a href="mailto:nsahu261972@gmail.com"><b>email</b></a> me.
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to paint
 
-<br>
+</br>
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; ##  Technologies:  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
@@ -46,9 +46,9 @@ or <a href="mailto:nsahu261972@gmail.com"><b>email</b></a> me.
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  />
+----
 
-
-<br>
+</br>
 
 
 <details>
@@ -59,11 +59,11 @@ or <a href="mailto:nsahu261972@gmail.com"><b>email</b></a> me.
 </details>
 
 
-<br>
+</br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Thanks+for+visiting!)](https://git.io/typing-svg)
 
-<br>
+</br>
 
 
 
