@@ -67,16 +67,6 @@ or <a href="mailto:nsahu261972@gmail.com"><b>email</b></a> me.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Thanks+for+visiting!)](https://git.io/typing-svg)
 
 
-<p>
-
-<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
-<p align="center">
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-</p>
-
-
 
 
 
