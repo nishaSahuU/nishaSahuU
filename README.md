@@ -12,13 +12,16 @@ You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/nishaSahuU"><b>here</b></a><br>
 or <a href="mailto:nsahu261972@gmail.com"><b>email</b></a> me.
+<i>Happy Coding!</i> 😊
 </p>
 
 
-<i>Happy Coding!</i> 😊
+
 <br>
 <p>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; ### Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+</p>
+<p>
 <a href="mailto:nsahu261972@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/nishaSahuU"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/nisha-sahu-3961ba227"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
