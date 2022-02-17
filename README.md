@@ -12,6 +12,7 @@ You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/nishaSahuU"><b>here</b></a><br>
 or <a href="mailto:nsahu261972@gmail.com"><b>email</b></a> me.
+<br>
 <i>Happy Coding!</i> 😊
 </p>
 
@@ -32,8 +33,8 @@ or <a href="mailto:nsahu261972@gmail.com"><b>email</b></a> me.
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; ## About me:
 
 - 👀 I’m interested in Web Development.
--    I’m looking to collaborate on Web Projects.
-- 🌱 I’m currently learning everything 🤣
+- ⚡ I’m looking to collaborate on Web Projects.
+	
 - ⚡ Fun fact: I love to paint
 </p>
 </br>
