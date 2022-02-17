@@ -29,17 +29,16 @@ or <a href="mailto:nsahu261972@gmail.com"><b>email</b></a> me.
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; ## About me:
 
 - 👀 I’m interested in Web Development.
--  I’m looking to collaborate on Web Projects.
+-    I’m looking to collaborate on Web Projects.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to paint
 </p>
 </br>
 
 <p>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; ##  Technologies:  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
- 
-
+ </p>
+<p>
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
