@@ -8,6 +8,8 @@
 
 <p align="center">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+My name is Nisha Sahu. I am currently pursuing my B.Tech degree, in Information Technology Engineering from Shri Shankaracharya Technical Campus, Bhilai. I am a Web Development enthusiast and love contributing in open source projects.
+	<br>
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/nishaSahuU"><b>here</b></a><br>
