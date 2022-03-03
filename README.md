@@ -8,7 +8,7 @@
 
 <p align="center">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
-My name is Nisha Sahu. I am currently pursuing my B.Tech degree, in Information Technology Engineering from Shri Shankaracharya Technical Campus, Bhilai. I am a Web Development enthusiast and love contributing in open source projects.
+My name is Nisha Sahu. I am currently pursuing my B.Tech degree, in Information Technology from Shri Shankaracharya Technical Campus, Bhilai. I am a Web Development enthusiast and love contributing in open source projects.
 	<br>
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
@@ -36,8 +36,9 @@ or <a href="mailto:nsahu261972@gmail.com"><b>email</b></a> me.
 
 - 👀 I’m interested in Web Development.
 - ⚡ I’m looking to collaborate on Web Projects.
-	
-- ⚡ Fun fact: I love to paint
+- 👯 I’m looking to collaborate on Open Source Projects.
+- I like working with Adobe XD and Figma for UI/UX.
+- ⚡ Fun fact: I love to paint and sketch.
 </p>
 </br>
 
